@@ -27,11 +27,11 @@ DB_USER="Your_Username"
 DB_PASSWORD="Your_Password"
 DB_NAME="Your_Table"
 
-SERVER_PORT=9999
+SERVER_PORT=9999/"Your_PORT"
 ```
 ### Start Development Server
 ```
 $ npm start
 ```
 
-### Thank you
+### Happy Coding
