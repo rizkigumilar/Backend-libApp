@@ -11,7 +11,7 @@
 ### Clone
 ```
 $ git clone https://github.com/rizkigumilar/Backend-libApp.git
-$ cd simple-REST
+$ cd Backend-libApp
 $ npm install
 ```
 
