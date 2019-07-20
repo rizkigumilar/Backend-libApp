@@ -1,4 +1,4 @@
-# Simple REST
+# Simple REST API 
 ![](https://img.shields.io/badge/Code%20Style-Standard-yellow.svg)
 ![](https://img.shields.io/badge/Dependencies-Express-green.svg)
 
@@ -10,7 +10,7 @@
 ## Installation
 ### Clone
 ```
-$ git clone https://github.com/rizkigumilar/SimpleRestAPI-Week2-Arkademy.git
+$ git clone https://github.com/rizkigumilar/Backend-libApp.git
 $ cd simple-REST
 $ npm install
 ```
